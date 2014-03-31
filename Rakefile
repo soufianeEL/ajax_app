@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-AjawApp::Application.load_tasks
+AjaxApp::Application.load_tasks

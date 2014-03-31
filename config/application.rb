@@ -6,7 +6,7 @@ require 'rails/all'
 # you've limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
 
-module AjawApp
+module AjaxApp
   class Application < Rails::Application
     config.assets.precompile += %w(*.png *.jpg *.jpeg *.gif)
     # Settings in config/environments/* take precedence over those specified here.

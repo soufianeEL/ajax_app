@@ -1,4 +1,4 @@
-AjawApp::Application.routes.draw do
+AjaxApp::Application.routes.draw do
   
   resources :products do
     get "delete"

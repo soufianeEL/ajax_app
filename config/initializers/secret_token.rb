@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-AjawApp::Application.config.secret_key_base = '06a697a03a10ee6ac4658e5fe04b9639db020b874f35d62aaa9e48e178338a5df0b36891ed7cf9446e5a88b6faa2f3c150ac5b0e27e8afc2370cf198f6b29036'
+AjaxApp::Application.config.secret_key_base = '06a697a03a10ee6ac4658e5fe04b9639db020b874f35d62aaa9e48e178338a5df0b36891ed7cf9446e5a88b6faa2f3c150ac5b0e27e8afc2370cf198f6b29036'
