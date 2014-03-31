@@ -45,3 +45,5 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# original source of the tutorial : http://richonrails.com/articles/basic-ajax-in-ruby-on-rails
